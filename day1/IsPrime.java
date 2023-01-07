@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class IsPrime {
 
+	// isPrime or notPrime
 	public static void main(String[] args) {
 
 		int num = 11;
